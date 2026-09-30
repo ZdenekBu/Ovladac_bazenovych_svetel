@@ -1,0 +1,2 @@
+1.1
+https://github.com/ZdenekBu/Ovladac_bazenovych_svetel/blob/main/Ovladac_svetel.ino.bin
